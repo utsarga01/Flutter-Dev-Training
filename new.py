@@ -1,1 +1,1 @@
-print("new omoe")
+print("learning git push")
